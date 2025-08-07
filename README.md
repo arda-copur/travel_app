@@ -177,15 +177,8 @@ Travel  App, kullanıcıların destinasyonları keşfetmesine, favorilerini yön
 
 ### Environment Variables / Ortam Değişkenleri
 
-\`\`\`env
-# .env file
 GEMINI_API_KEY=your_gemini_api_key_here
-\`\`\`
 
 ---
 
 
-<div align="center">
-  <p>Made with ❤️ using Flutter</p>
-  <p>🌍 Supporting sustainable travel and cultural exchange</p>
-</div>
