@@ -85,10 +85,10 @@ Travel  App, kullanıcıların destinasyonları keşfetmesine, favorilerini yön
 ### 🇩🇪 Design-System
 
 #### Farbpalette:
-- **Primärfarbe**: Deep Purple (#673AB7) - Vertrauen und Eleganz
-- **Sekundärfarbe**: Amber (#FFC107) - Energie und Optimismus
-- **Hintergrund (Hell)**: Light Gray (#F8F9FA) - Sauberkeit und Klarheit
-- **Hintergrund (Dunkel)**: Dark Blue (#1A1A2E) - Moderne Eleganz
+- **Primärfarbe**: Deep Purple (#673AB7)
+- **Sekundärfarbe**: Amber (#FFC107) 
+- **Hintergrund (Hell)**: Light Gray (#F8F9FA) 
+- **Hintergrund (Dunkel)**: Dark Blue (#1A1A2E) 
 - **Akzentfarben**: Teal für Erfolg, Red für Fehler
 
 #### Typografie:
@@ -105,10 +105,10 @@ Travel  App, kullanıcıların destinasyonları keşfetmesine, favorilerini yön
 ### 🇺🇸 Design System
 
 #### Color Palette:
-- **Primary Color**: Deep Purple (#673AB7) - Trust and elegance
-- **Secondary Color**: Amber (#FFC107) - Energy and optimism
-- **Background (Light)**: Light Gray (#F8F9FA) - Cleanliness and clarity
-- **Background (Dark)**: Dark Blue (#1A1A2E) - Modern elegance
+- **Primary Color**: Deep Purple (#673AB7) 
+- **Secondary Color**: Amber (#FFC107) 
+- **Background (Light)**: Light Gray (#F8F9FA) 
+- **Background (Dark)**: Dark Blue (#1A1A2E) 
 - **Accent Colors**: Teal for success, Red for errors
 
 #### Typography:
@@ -125,10 +125,10 @@ Travel  App, kullanıcıların destinasyonları keşfetmesine, favorilerini yön
 ### 🇹🇷 Tasarım Sistemi
 
 #### Renk Paleti:
-- **Ana Renk**: Deep Purple (#673AB7) - Güven ve zarafet
-- **İkincil Renk**: Amber (#FFC107) - Enerji ve iyimserlik
-- **Arka Plan (Açık)**: Light Gray (#F8F9FA) - Temizlik ve netlik
-- **Arka Plan (Koyu)**: Dark Blue (#1A1A2E) - Modern zarafet
+- **Ana Renk**: Deep Purple (#673AB7) 
+- **İkincil Renk**: Amber (#FFC107) 
+- **Arka Plan (Açık)**: Light Gray (#F8F9FA) 
+- **Arka Plan (Koyu)**: Dark Blue (#1A1A2E) 
 - **Vurgu Renkleri**: Başarılı için Teal, hatalar için Red
 
 #### Tipografi:
