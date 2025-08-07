@@ -67,7 +67,7 @@ Travel  App, kullanıcıların destinasyonları keşfetmesine, favorilerini yön
 
 ---
 
-## 🛠️ Technologie-Stack / Technology Stack / Teknoloji Yığını
+## 🛠️ Technologie-Stack / Technology Stack / Teknolojiler
 
 ### Core Technologies / Temel Teknolojiler
 
@@ -143,16 +143,6 @@ Travel  App, kullanıcıların destinasyonları keşfetmesine, favorilerini yön
 - **Stil**: Dostça görünüm için yuvarlak
 
 ---
-
-## 🚀 Installation & Setup / Kurulum ve Ayarlama
-
-### Prerequisites / Ön Gereksinimler
-
-- Flutter SDK (3.x or higher)
-- Dart SDK (3.x or higher)
-- Android Studio / VS Code
-- Firebase Account
-- Google Cloud Account (for Gemini AI)
 
 ## 📱 App Flow / Uygulama Akışı
 
